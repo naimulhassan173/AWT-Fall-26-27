@@ -1,7 +1,7 @@
 # Lab Task 1: Product and Employee Management
 
-Complete the student details before submission:
-
+| Detail | Value |
+| --- | --- |
 | SL | N/A (not provided by faculty) |
 | Name | Naimul Hassan |
 | Student ID | 23-54173-3 |
